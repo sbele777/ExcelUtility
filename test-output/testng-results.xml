@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="99997" started-at="2022-11-17T05:49:56Z" finished-at="2022-11-17T05:51:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="99997" started-at="2022-11-17T05:49:56Z" finished-at="2022-11-17T05:51:36Z">
+      <class name="dataProviderUtility.HalfEbay">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:dataProviderUtility.HalfEbay@481a996b]" name="setUP" is-config="true" duration-ms="26523" started-at="2022-11-17T11:20:03Z" finished-at="2022-11-17T11:20:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="halfEbayRegistration(java.lang.String, java.lang.String)[pri:0, instance:dataProviderUtility.HalfEbay@481a996b]" name="halfEbayRegistration" duration-ms="2516" started-at="2022-11-17T11:20:29Z" data-provider="FormData" finished-at="2022-11-17T11:20:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- halfEbayRegistration -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataProviderUtility.HalfEbay@481a996b]" name="tearDown" is-config="true" duration-ms="1268" started-at="2022-11-17T11:20:32Z" finished-at="2022-11-17T11:20:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:dataProviderUtility.HalfEbay@481a996b]" name="setUP" is-config="true" duration-ms="17237" started-at="2022-11-17T11:20:33Z" finished-at="2022-11-17T11:20:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="halfEbayRegistration(java.lang.String, java.lang.String)[pri:0, instance:dataProviderUtility.HalfEbay@481a996b]" name="halfEbayRegistration" duration-ms="740" started-at="2022-11-17T11:20:50Z" data-provider="FormData" finished-at="2022-11-17T11:20:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- halfEbayRegistration -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataProviderUtility.HalfEbay@481a996b]" name="tearDown" is-config="true" duration-ms="1167" started-at="2022-11-17T11:20:51Z" finished-at="2022-11-17T11:20:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:dataProviderUtility.HalfEbay@481a996b]" name="setUP" is-config="true" duration-ms="23793" started-at="2022-11-17T11:20:52Z" finished-at="2022-11-17T11:21:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="halfEbayRegistration(java.lang.String, java.lang.String)[pri:0, instance:dataProviderUtility.HalfEbay@481a996b]" name="halfEbayRegistration" duration-ms="669" started-at="2022-11-17T11:21:16Z" data-provider="FormData" finished-at="2022-11-17T11:21:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Adm]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- halfEbayRegistration -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataProviderUtility.HalfEbay@481a996b]" name="tearDown" is-config="true" duration-ms="886" started-at="2022-11-17T11:21:17Z" finished-at="2022-11-17T11:21:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:dataProviderUtility.HalfEbay@481a996b]" name="setUP" is-config="true" duration-ms="16575" started-at="2022-11-17T11:21:17Z" finished-at="2022-11-17T11:21:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="halfEbayRegistration(java.lang.String, java.lang.String)[pri:0, instance:dataProviderUtility.HalfEbay@481a996b]" name="halfEbayRegistration" duration-ms="740" started-at="2022-11-17T11:21:34Z" data-provider="FormData" finished-at="2022-11-17T11:21:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ADMN]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Asdr]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- halfEbayRegistration -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataProviderUtility.HalfEbay@481a996b]" name="tearDown" is-config="true" duration-ms="1301" started-at="2022-11-17T11:21:35Z" finished-at="2022-11-17T11:21:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- dataProviderUtility.HalfEbay -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
